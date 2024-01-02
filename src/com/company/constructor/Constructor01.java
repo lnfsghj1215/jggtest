@@ -2,8 +2,10 @@ package com.company.constructor;
 
 public class Constructor01 {
     public static void main(String[] args) {
-        PersonConstructor ps = new PersonConstructor("jack", 20);
-        System.out.println(ps.name + ps.age);
+        PersonConstructor ps1 = new PersonConstructor("jack", 20);
+        PersonConstructor ps2 = new PersonConstructor("tom");
+        System.out.println(ps1.name + ps1.age);
+        System.out.println(ps2.name + ps2.age);
     }
 }
 
