@@ -1,4 +1,4 @@
-package com.company.package_01;
+package com.company.l0278_package_01;
 
 // 不建议用*的方式导入
 // import java.util.Scanner; //表示只引入java.util包下的Scanner

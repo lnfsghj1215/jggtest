@@ -1,5 +1,5 @@
 // package的作用是什么当前类所在的包，需要放在类（或文件）的最上面，只能有一句
-package com.company.package_01;
+package com.company.l0278_package_01;
 
 // import放在package的下面，在类定义面前，可以有多句且没有顺序要求
 

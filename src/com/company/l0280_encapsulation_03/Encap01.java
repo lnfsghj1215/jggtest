@@ -1,4 +1,4 @@
-package com.company.encapsulation_03;
+package com.company.l0280_encapsulation_03;
 
 public class Encap01 {
     public static void main(String[] args) {

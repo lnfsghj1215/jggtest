@@ -1,4 +1,4 @@
-package com.company.modifier_02;
+package com.company.l0279_modifier_02;
 
 public class Modifier01 {
     public static void main(String[] args) {

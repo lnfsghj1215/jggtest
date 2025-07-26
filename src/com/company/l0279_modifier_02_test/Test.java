@@ -1,6 +1,6 @@
-package com.company.modifier_02_test;
+package com.company.l0279_modifier_02_test;
 
-import com.company.modifier_02.A;
+import com.company.l0279_modifier_02.A;
 public class Test {
     public static void main(String[] args) {
         A a = new A();

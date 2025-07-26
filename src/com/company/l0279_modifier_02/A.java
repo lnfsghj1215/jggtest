@@ -1,4 +1,4 @@
-package com.company.modifier_02;
+package com.company.l0279_modifier_02;
 
 public class A {
     // 四个属性，分别用不同的访问修饰符来修饰

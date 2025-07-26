@@ -1,4 +1,4 @@
-package com.company.this_test;
+package com.company.l0246_this_test;
 
 public class this01 {
     public static void main(String[] args) {
