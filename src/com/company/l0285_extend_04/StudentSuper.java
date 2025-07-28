@@ -1,10 +1,13 @@
-package com.company.extend_04;
+package com.company.l0285_extend_04;
 
 public class StudentSuper {
     public String name;
     public int age;
     private double score;
 
+    public StudentSuper(){
+        System.out.println("父类的无参构造器被调用");
+    }
     public void setScore(double score) {
         this.score = score;
     }

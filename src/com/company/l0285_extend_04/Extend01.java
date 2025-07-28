@@ -1,4 +1,4 @@
-package com.company.extend_04;
+package com.company.l0285_extend_04;
 
 public class Extend01 {
     public static void main(String[] args) {
