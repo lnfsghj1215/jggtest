@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75849e23-40e4-43c7-9c4c-6728f6d686a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0378_static_method/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/l0378_static_method/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,65 +38,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ChildGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Debug01.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DebugExercise (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DebugExercise.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DynamicBinding (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.DynamicBinding (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.DynamicBinding (3).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DynamicBinding (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.DynamicBinding (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.DynamicBinding.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.EqualsExercise (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsExercise (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsExercise (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsExercise (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsExercise (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Extend01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExtendTheory.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Finalize.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HouseRentApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainArgs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Override01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Poly01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyParameter (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyParameter (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyParameter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.import_test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.this01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jin.huang/JavaProject/jggtest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChildGame.executor": "Run",
+    "Application.CodeBlock01 (1).executor": "Run",
+    "Application.CodeBlock01.executor": "Run",
+    "Application.CodeDetail (1).executor": "Run",
+    "Application.CodeDetail (2).executor": "Run",
+    "Application.CodeDetail (3).executor": "Run",
+    "Application.CodeDetail (4).executor": "Run",
+    "Application.CodeDetail (5).executor": "Run",
+    "Application.CodeDetail.executor": "Run",
+    "Application.CodeDetail02 (1).executor": "Run",
+    "Application.CodeDetail02 (2).executor": "Run",
+    "Application.CodeDetail02.executor": "Run",
+    "Application.Debug01.executor": "Debug",
+    "Application.DebugExercise (1).executor": "Debug",
+    "Application.DebugExercise.executor": "Debug",
+    "Application.DynamicBinding (1).executor": "Run",
+    "Application.DynamicBinding (2).executor": "Run",
+    "Application.DynamicBinding (3).executor": "Debug",
+    "Application.DynamicBinding (4).executor": "Run",
+    "Application.DynamicBinding (5).executor": "Run",
+    "Application.DynamicBinding.executor": "Debug",
+    "Application.EqualsExercise (1).executor": "Run",
+    "Application.EqualsExercise (2).executor": "Run",
+    "Application.EqualsExercise (3).executor": "Run",
+    "Application.EqualsExercise (4).executor": "Run",
+    "Application.EqualsExercise (5).executor": "Run",
+    "Application.EqualsExercise.executor": "Run",
+    "Application.Extend01.executor": "Run",
+    "Application.ExtendTheory.executor": "Run",
+    "Application.Finalize.executor": "Run",
+    "Application.HouseRentApp.executor": "Run",
+    "Application.MainArgs.executor": "Run",
+    "Application.Override01.executor": "Run",
+    "Application.Poly01.executor": "Run",
+    "Application.PolyArray.executor": "Run",
+    "Application.PolyObject.executor": "Run",
+    "Application.PolyParameter (1).executor": "Run",
+    "Application.PolyParameter (2).executor": "Run",
+    "Application.PolyParameter.executor": "Run",
+    "Application.StaticMethod.executor": "Run",
+    "Application.VisitStatic.executor": "Run",
+    "Application.import_test.executor": "Run",
+    "Application.this01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jin.huang/JavaProject/jggtest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/houserent/source" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainArgs">
-    <configuration name="ChildGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0374_static.ChildGame" />
-      <module name="untitled104" />
+  <component name="RunManager" selected="Application.CodeDetail02 (2)">
+    <configuration name="CodeDetail (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+      <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0374_static.*" />
+          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0332_debug_exercise.DebugExercise" />
-      <module name="untitled104" />
+    <configuration name="CodeDetail (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+      <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0332_debug_exercise.*" />
+          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.houserent.HouseRentApp" />
-      <module name="untitled104" />
+    <configuration name="CodeDetail (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+      <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.houserent.*" />
+          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,14 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.company.l0382_main.MainArgs" />
-      <module name="untitled104" />
+    <configuration name="CodeDetail (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+      <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0382_main.*" />
+          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,33 +159,96 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0378_static_method.StaticMethod" />
-      <module name="untitled104" />
+    <configuration name="CodeDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_block_detail.CodeDetail" />
+      <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0378_static_method.*" />
+          <option name="PATTERN" value="com.company.l0386_code_block_detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeDetail02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
+      <module name="jggtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeDetail02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
+      <module name="jggtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeDetail02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
+      <module name="jggtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_block_detail.CodeDetail" />
+      <module name="jggtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.l0386_code_block_detail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ChildGame" />
-      <item itemvalue="Application.DebugExercise" />
-      <item itemvalue="Application.HouseRentApp" />
-      <item itemvalue="Application.MainArgs" />
-      <item itemvalue="Application.StaticMethod" />
+      <item itemvalue="Application.CodeDetail" />
+      <item itemvalue="Application.CodeDetail (1)" />
+      <item itemvalue="Application.CodeDetail02" />
+      <item itemvalue="Application.CodeDetail02 (1)" />
+      <item itemvalue="Application.CodeDetail02 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainArgs" />
-        <item itemvalue="Application.StaticMethod" />
-        <item itemvalue="Application.ChildGame" />
-        <item itemvalue="Application.HouseRentApp" />
-        <item itemvalue="Application.DebugExercise" />
+        <item itemvalue="Application.CodeDetail02 (2)" />
+        <item itemvalue="Application.CodeDetail02 (1)" />
+        <item itemvalue="Application.CodeDetail02" />
+        <item itemvalue="Application.CodeDetail" />
+        <item itemvalue="Application.CodeDetail (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +283,7 @@
       <workItem from="1757861472003" duration="2000" />
       <workItem from="1757861511008" duration="30000" />
       <workItem from="1757861563188" duration="8000" />
+      <workItem from="1757861774817" duration="4817000" />
     </task>
     <servers />
   </component>

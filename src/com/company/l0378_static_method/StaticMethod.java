@@ -39,9 +39,9 @@ class Student {
     // 类方法（静态方法）中。只能访问静态变量或静态方法
     // 不能使用this，super
     public static void hello(){
-        System.out.println(name);
-        System.out.println(this.name);
-        payFee();
+        //System.out.println(name);
+        //System.out.println(this.name);
+        //payFee();
         showFee();
     }
 }
