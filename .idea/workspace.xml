@@ -6,8 +6,202 @@
   <component name="ChangeListManager">
     <list default="true" id="75849e23-40e4-43c7-9c4c-6728f6d686a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/l0378_static_method/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/l0378_static_method/StaticMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayAddAndReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayBubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/ArraySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/array/TwoDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/basic/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/basic/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/basic/NameRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/ClassField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/ClassMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/ClassMethodDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/MP2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/MethodParameter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/Object1$1Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/Object1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/class_object/Person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/constructor/Constructor01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/constructor/PersonConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0227_overload/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0227_overload/OverLoad01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0227_overload/VarParaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0227_overload/VarParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0246_this_test/THIS_DOG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0246_this_test/this01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0277_import/import_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0278_package_01/Import01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0278_package_01/package01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0279_modifier_02/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0279_modifier_02/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0279_modifier_02/Modifier01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0279_modifier_02/四种访问修饰符的范围.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0279_modifier_02_test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0280_encapsulation_03/Encap01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0280_encapsulation_03/PersonEncap01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0285_extend_04/Extend01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0285_extend_04/Graduate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0285_extend_04/Pupil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0285_extend_04/StudentSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0293_extend_theory/ExtendTheory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0293_extend_theory/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0293_extend_theory/GrandPa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0293_extend_theory/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0301_override/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0301_override/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0301_override/Override01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Bone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0305_poly/Poly01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0307_objpoly/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0307_objpoly/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0307_objpoly/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0307_objpoly/PolyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0314_poly_dynamic/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0314_poly_dynamic/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0314_poly_dynamic/DynamicBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0315_poly_array/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0315_poly_array/PolyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0315_poly_array/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0315_poly_array/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0321_equals_exercise01/EqualsExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0321_equals_exercise01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0326_finalize/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0326_finalize/Finalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0332_debug_exercise/DebugExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0332_debug_exercise/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0374_static/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0374_static/ChildGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0376_visit_static/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0376_visit_static/VisitStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0378_static_method/StaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0378_static_method/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0382_main/MainArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0385_code_block/CodeBlock01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0385_code_block/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/CodeDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0386_code_block_detail/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0387_code_block_detail_02/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l0387_code_block_detail_02/CodeDetail02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l317_poly_param/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l317_poly_param/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l317_poly_param/PolyParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l317_poly_param/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l317_poly_param/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/l328_debug/Debug01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/BreakClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/BreakLabelClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/ContinueClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/DoWhileClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/ForClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/IfClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/ReturnClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/SwitchClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/loop_control/WhileClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/recursion/RecursionClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/recursion/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/scope/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/production/jggtest/com/company/scope/VarScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayAddAndReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayAddAndReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayAssign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayAssign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/ArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/TwoDimArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/array/TwoDimArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/basic/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/basic/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/NameRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/basic/NameRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/class_object/ClassField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/class_object/ClassField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/class_object/ClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/class_object/ClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/class_object/ClassMethodDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/class_object/ClassMethodDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/class_object/MethodParameter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/class_object/MethodParameter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/class_object/Object1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/class_object/Object1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/constructor/Constructor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/constructor/Constructor01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0227_overload/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0227_overload/MyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0227_overload/OverLoad01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0227_overload/OverLoad01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0227_overload/VarParaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0227_overload/VarParaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0227_overload/VarParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0227_overload/VarParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0246_this_test/this01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0246_this_test/this01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0277_import/import_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0277_import/import_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0278_package_01/Import01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0278_package_01/Import01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0278_package_01/package01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0278_package_01/package01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0279_modifier_02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0279_modifier_02/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0279_modifier_02/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0279_modifier_02/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0279_modifier_02/Modifier01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0279_modifier_02/Modifier01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0279_modifier_02/四种访问修饰符的范围.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0279_modifier_02/四种访问修饰符的范围.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0279_modifier_02_test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0279_modifier_02_test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0280_encapsulation_03/Encap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0280_encapsulation_03/Encap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0285_extend_04/Extend01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0285_extend_04/Extend01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0285_extend_04/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0285_extend_04/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0285_extend_04/Pupil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0285_extend_04/Pupil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0285_extend_04/StudentSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0285_extend_04/StudentSuper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0293_extend_theory/ExtendTheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0293_extend_theory/ExtendTheory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0301_override/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0301_override/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0301_override/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0301_override/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0301_override/Override01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0301_override/Override01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Bone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Bone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0305_poly/Poly01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0305_poly/Poly01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0307_objpoly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0307_objpoly/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0307_objpoly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0307_objpoly/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0307_objpoly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0307_objpoly/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0307_objpoly/PolyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0307_objpoly/PolyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0314_poly_dynamic/DynamicBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0314_poly_dynamic/DynamicBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0315_poly_array/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0315_poly_array/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0315_poly_array/PolyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0315_poly_array/PolyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0315_poly_array/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0315_poly_array/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0315_poly_array/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0315_poly_array/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0321_equals_exercise01/EqualsExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0321_equals_exercise01/EqualsExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0326_finalize/Finalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0326_finalize/Finalize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0332_debug_exercise/DebugExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0332_debug_exercise/DebugExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0374_static/ChildGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0374_static/ChildGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0376_visit_static/VisitStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0376_visit_static/VisitStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0378_static_method/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0378_static_method/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0382_main/MainArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0382_main/MainArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0382_main/MainArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0385_code_block/CodeBlock01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0385_code_block/CodeBlock01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0386_code_block_detail/CodeDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0386_code_block_detail/CodeDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l0387_code_block_detail_02/CodeDetail02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l0387_code_block_detail_02/CodeDetail02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l317_poly_param/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l317_poly_param/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l317_poly_param/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l317_poly_param/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l317_poly_param/PolyParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l317_poly_param/PolyParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l317_poly_param/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l317_poly_param/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/l328_debug/Debug01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_oop/l328_debug/Debug01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/BreakClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/BreakClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/BreakLabelClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/BreakLabelClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/ContinueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/ContinueClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/DoWhileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/DoWhileClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/ForClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/ForClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/IfClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/IfClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/ReturnClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/ReturnClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/SwitchClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/SwitchClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/loop_control/WhileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/loop_control/WhileClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/recursion/RecursionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/recursion/RecursionClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/scope/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/scope/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/scope/VarScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_basic/scope/VarScope.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +211,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +236,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousInnerClass (1).executor": "Run",
+    "Application.AnonymousInnerClass (2).executor": "Run",
+    "Application.AnonymousInnerClass.executor": "Run",
+    "Application.BlockDetail03 (1).executor": "Run",
+    "Application.BlockDetail03 (2).executor": "Debug",
+    "Application.BlockDetail03 (3).executor": "Run",
+    "Application.BlockDetail03 (4).executor": "Run",
+    "Application.BlockDetail03.executor": "Run",
     "Application.ChildGame.executor": "Run",
     "Application.CodeBlock01 (1).executor": "Run",
     "Application.CodeBlock01.executor": "Run",
@@ -51,6 +255,8 @@
     "Application.CodeDetail.executor": "Run",
     "Application.CodeDetail02 (1).executor": "Run",
     "Application.CodeDetail02 (2).executor": "Run",
+    "Application.CodeDetail02 (3).executor": "Debug",
+    "Application.CodeDetail02 (4).executor": "Debug",
     "Application.CodeDetail02.executor": "Run",
     "Application.Debug01.executor": "Debug",
     "Application.DebugExercise (1).executor": "Debug",
@@ -61,6 +267,13 @@
     "Application.DynamicBinding (4).executor": "Run",
     "Application.DynamicBinding (5).executor": "Run",
     "Application.DynamicBinding.executor": "Debug",
+    "Application.EnumExercise.executor": "Run",
+    "Application.Enumeration01 (1).executor": "Run",
+    "Application.Enumeration01 (2).executor": "Run",
+    "Application.Enumeration01 (3).executor": "Run",
+    "Application.Enumeration01 (4).executor": "Run",
+    "Application.Enumeration01 (5).executor": "Run",
+    "Application.Enumeration01.executor": "Run",
     "Application.EqualsExercise (1).executor": "Run",
     "Application.EqualsExercise (2).executor": "Run",
     "Application.EqualsExercise (3).executor": "Run",
@@ -69,9 +282,20 @@
     "Application.EqualsExercise.executor": "Run",
     "Application.Extend01.executor": "Run",
     "Application.ExtendTheory.executor": "Run",
+    "Application.Final02.executor": "Run",
     "Application.Finalize.executor": "Run",
     "Application.HouseRentApp.executor": "Run",
+    "Application.InnerClassExercise.executor": "Run",
+    "Application.Interface01.executor": "Run",
+    "Application.Interface02.executor": "Run",
+    "Application.InterfaceDetail.executor": "Run",
+    "Application.LocalInnerClass (1).executor": "Run",
+    "Application.LocalInnerClass (2).executor": "Run",
+    "Application.LocalInnerClass.executor": "Run",
     "Application.MainArgs.executor": "Run",
+    "Application.MemberInnerClass (1).executor": "Run",
+    "Application.MemberInnerClass (2).executor": "Run",
+    "Application.MemberInnerClass.executor": "Run",
     "Application.Override01.executor": "Run",
     "Application.Poly01.executor": "Run",
     "Application.PolyArray.executor": "Run",
@@ -79,7 +303,16 @@
     "Application.PolyParameter (1).executor": "Run",
     "Application.PolyParameter (2).executor": "Run",
     "Application.PolyParameter.executor": "Run",
+    "Application.SingleTon01 (1).executor": "Debug",
+    "Application.SingleTon01 (2).executor": "Run",
+    "Application.SingleTon01 (3).executor": "Run",
+    "Application.SingleTon01.executor": "Debug",
+    "Application.SingleTon02 (1).executor": "Run",
+    "Application.SingleTon02 (2).executor": "Run",
+    "Application.SingleTon02.executor": "Run",
+    "Application.StaticInnerClass.executor": "Run",
     "Application.StaticMethod.executor": "Run",
+    "Application.TestTemplate.executor": "Debug",
     "Application.VisitStatic.executor": "Run",
     "Application.import_test.executor": "Run",
     "Application.this01.executor": "Run",
@@ -106,13 +339,13 @@
       <recent name="$PROJECT_DIR$/src/com/houserent/source" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodeDetail02 (2)">
-    <configuration name="CodeDetail (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+  <component name="RunManager" selected="Application.EnumExercise">
+    <configuration name="EnumExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java_enums_annotate.l0430_enumeration_exercise.EnumExercise" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
+          <option name="PATTERN" value="com.company.java_enums_annotate.l0430_enumeration_exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDetail (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+    <configuration name="Enumeration01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java_enums_annotate.l0424_enumeration.Enumeration01" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
+          <option name="PATTERN" value="com.company.java_enums_annotate.l0424_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +366,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDetail (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+    <configuration name="Enumeration01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java_enums_annotate.l0424_enumeration.Enumeration01" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
+          <option name="PATTERN" value="com.company.java_enums_annotate.l0424_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +379,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDetail (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_detail.CodeDetail" />
+    <configuration name="Enumeration01 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java_enums_annotate.l0424_enumeration.Enumeration01" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_detail.*" />
+          <option name="PATTERN" value="com.company.java_enums_annotate.l0424_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +392,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_block_detail.CodeDetail" />
+    <configuration name="Enumeration01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java_enums_annotate.l0424_enumeration.Enumeration01" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_block_detail.*" />
+          <option name="PATTERN" value="com.company.java_enums_annotate.l0424_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,51 +405,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDetail02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
+    <configuration name="MemberInnerClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.l0419_member_inner_class.MemberInnerClass" />
       <module name="jggtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeDetail02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
-      <module name="jggtest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeDetail02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0387_code_block_detail_02.CodeDetail02" />
-      <module name="jggtest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.l0387_code_block_detail_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.l0386_code_block_detail.CodeDetail" />
-      <module name="jggtest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.l0386_code_block_detail.*" />
+          <option name="PATTERN" value="com.company.l0419_member_inner_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +430,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CodeDetail" />
-      <item itemvalue="Application.CodeDetail (1)" />
-      <item itemvalue="Application.CodeDetail02" />
-      <item itemvalue="Application.CodeDetail02 (1)" />
-      <item itemvalue="Application.CodeDetail02 (2)" />
+      <item itemvalue="Application.EnumExercise" />
+      <item itemvalue="Application.Enumeration01" />
+      <item itemvalue="Application.Enumeration01 (1)" />
+      <item itemvalue="Application.Enumeration01 (2)" />
+      <item itemvalue="Application.Enumeration01 (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeDetail02 (2)" />
-        <item itemvalue="Application.CodeDetail02 (1)" />
-        <item itemvalue="Application.CodeDetail02" />
-        <item itemvalue="Application.CodeDetail" />
-        <item itemvalue="Application.CodeDetail (1)" />
+        <item itemvalue="Application.EnumExercise" />
+        <item itemvalue="Application.Enumeration01" />
+        <item itemvalue="Application.Enumeration01 (2)" />
+        <item itemvalue="Application.Enumeration01 (1)" />
+        <item itemvalue="Application.Enumeration01 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +477,9 @@
       <workItem from="1757861472003" duration="2000" />
       <workItem from="1757861511008" duration="30000" />
       <workItem from="1757861563188" duration="8000" />
-      <workItem from="1757861774817" duration="4817000" />
+      <workItem from="1757861774817" duration="28261000" />
+      <workItem from="1758438766954" duration="137000" />
+      <workItem from="1758439694592" duration="13910000" />
     </task>
     <servers />
   </component>
@@ -305,17 +501,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/l0314_poly_dynamic/DynamicBinding.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/java_oop/l0314_poly_dynamic/DynamicBinding.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/l328_debug/Debug01.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/java_oop/l328_debug/Debug01.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/l0332_debug_exercise/DebugExercise.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/java_oop/l0332_debug_exercise/DebugExercise.java</url>
           <line>8</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
